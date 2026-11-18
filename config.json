@@ -1,0 +1,20 @@
+{
+  "student_id": "FA23-BDS-043",
+  "scenario": "warehouse",
+  "seed": 29922,
+  "features": [
+    "queue_depth",
+    "staff_gap",
+    "truck_delay",
+    "order_burst"
+  ],
+  "weights": [
+    0.85,
+    0.8,
+    0.7,
+    0.95
+  ],
+  "variant": "rounded",
+  "bias": 0.0,
+  "offset": 0.09
+}
